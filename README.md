@@ -1,10 +1,10 @@
 # ExAd v1.0.4
  Upload of ExAd Created by an unknown previous coder
 
-Disclaimer, This is not made by me, this is purely a reupload as the exile forums are no longer with us.
+# Disclaimer
+This is not made by me, this is purely a reupload as the exile forums are no longer with us.
 
-Instalation Instructions:
-
+# Instalation Instructions:
 
 Step 1: Copy the files located in the "@ExileServer\addons" folder into your servers "@ExileServer\addons" 
 Note: Do not copy over "exad_vg" if you do not wish to utilize the ExAd Virtual Garage.
