@@ -2,7 +2,7 @@
  Upload of ExAd Created by an unknown previous coder
 
 # Disclaimer
-This is not made by me, this is purely a reupload as the exile forums are no longer with us.
+This is not made by me, this is purely a re-upload as the exile forums are no longer with us.
 
 # Instalation Instructions:
 
